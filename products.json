@@ -1,0 +1,2038 @@
+{
+  "metadata": {
+    "total_products": 100,
+    "categories": [
+      "Electronics",
+      "Fashion",
+      "Fitness",
+      "Home",
+      "Personal Care"
+    ],
+    "total_categories": 5,
+    "price_range": {
+      "min": 9.99,
+      "max": 4999.99,
+      "avg": 317.7201
+    },
+    "rating_range": {
+      "min": 2.9,
+      "max": 4.9,
+      "avg": 4.149
+    },
+    "brands": [
+      "Adidas",
+      "Apple",
+      "Generic",
+      "IKEA",
+      "Nike",
+      "Philips",
+      "Samsung",
+      "Sony",
+      "Xiaomi",
+      "Zara"
+    ],
+    "total_brands": 10
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "AirPods Pro 2",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 249.99,
+      "rating": 4.8,
+      "review_count": 3421,
+      "in_stock": true,
+      "tags": [
+        "wireless",
+        "premium",
+        "noise cancelling"
+      ],
+      "reviews": [
+        "Absolutely perfect sound quality and ANC is outstanding",
+        "Best purchase I've made in years",
+        "Seamless connectivity with all devices"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air M3",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1199.99,
+      "rating": 4.9,
+      "review_count": 2156,
+      "in_stock": true,
+      "tags": [
+        "powerful",
+        "lightweight",
+        "premium"
+      ],
+      "reviews": [
+        "Incredible performance and battery life",
+        "Worth every penny for creative work",
+        "Smooth and responsive beyond expectations"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 999.99,
+      "rating": 4.8,
+      "review_count": 4523,
+      "in_stock": true,
+      "tags": [
+        "flagship",
+        "reliable",
+        "premium"
+      ],
+      "reviews": [
+        "Camera quality is phenomenal and build feels solid",
+        "The display is absolutely stunning",
+        "Face ID works flawlessly"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 429.99,
+      "rating": 4.7,
+      "review_count": 2834,
+      "in_stock": true,
+      "tags": [
+        "smart",
+        "health tracking",
+        "premium"
+      ],
+      "reviews": [
+        "Excellent health features and all-day battery",
+        "Very responsive and intuitive interface",
+        "Great design and durability"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "iPad Pro 12.9",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1099.99,
+      "rating": 4.8,
+      "review_count": 1945,
+      "in_stock": true,
+      "tags": [
+        "powerful",
+        "creative",
+        "premium"
+      ],
+      "reviews": [
+        "Perfect for design work and very fast",
+        "Incredible display quality and processor speed",
+        "Best tablet I've ever owned"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 899.99,
+      "rating": 4.6,
+      "review_count": 3256,
+      "in_stock": true,
+      "tags": [
+        "flagship",
+        "fast",
+        "reliable"
+      ],
+      "reviews": [
+        "Amazing camera system and smooth performance",
+        "Display is vibrant and responsive",
+        "Battery life is solid and consistent"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Samsung 65 Inch 4K TV",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 799.99,
+      "rating": 4.5,
+      "review_count": 2145,
+      "in_stock": true,
+      "tags": [
+        "large",
+        "vibrant",
+        "immersive"
+      ],
+      "reviews": [
+        "Picture quality is fantastic and colors are rich",
+        "Smart features work perfectly",
+        "Great value for the size"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Buds Pro",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 229.99,
+      "rating": 4.4,
+      "review_count": 1876,
+      "in_stock": true,
+      "tags": [
+        "wireless",
+        "premium",
+        "comfortable"
+      ],
+      "reviews": [
+        "Sound quality is excellent and ANC works well",
+        "Very comfortable for extended wear",
+        "Good battery life overall"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Samsung Front Load Washer",
+      "brand": "Samsung",
+      "category": "Home",
+      "price": 699.99,
+      "rating": 4.3,
+      "review_count": 956,
+      "in_stock": true,
+      "tags": [
+        "durable",
+        "efficient",
+        "spacious"
+      ],
+      "reviews": [
+        "Cleans clothes really well and quiet operation",
+        "Energy efficient and easy to use",
+        "Good build quality overall"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi 13 Ultra",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 699.99,
+      "rating": 4.2,
+      "review_count": 1245,
+      "in_stock": true,
+      "tags": [
+        "camera",
+        "powerful",
+        "reliable"
+      ],
+      "reviews": [
+        "Camera performance is outstanding for the price",
+        "Fast processor and good battery",
+        "Great value flagship phone"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Smart Watch",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 149.99,
+      "rating": 4.0,
+      "review_count": 834,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "health tracking",
+        "practical"
+      ],
+      "reviews": [
+        "Does what it promises and battery lasts long",
+        "Decent fitness tracking features",
+        "Good budget option overall"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Air Purifier Pro",
+      "brand": "Xiaomi",
+      "category": "Home",
+      "price": 399.99,
+      "rating": 4.1,
+      "review_count": 567,
+      "in_stock": true,
+      "tags": [
+        "efficient",
+        "quiet",
+        "smart"
+      ],
+      "reviews": [
+        "Noticeably improves air quality and quiet operation",
+        "Easy app control and good filters",
+        "Works as advertised"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 399.99,
+      "rating": 4.9,
+      "review_count": 2876,
+      "in_stock": true,
+      "tags": [
+        "noise cancelling",
+        "premium",
+        "wireless"
+      ],
+      "reviews": [
+        "Best headphones I've ever used with incredible ANC",
+        "Sound quality is pristine and immersive",
+        "Comfortable and worth the investment"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sony A7IV Camera",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 1099.99,
+      "rating": 4.8,
+      "review_count": 1534,
+      "in_stock": true,
+      "tags": [
+        "professional",
+        "versatile",
+        "reliable"
+      ],
+      "reviews": [
+        "Excellent image quality and autofocus is superb",
+        "Build feels premium and durable",
+        "Great for both photography and video"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sony Portable Speaker",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 249.99,
+      "rating": 4.6,
+      "review_count": 1205,
+      "in_stock": true,
+      "tags": [
+        "portable",
+        "waterproof",
+        "quality sound"
+      ],
+      "reviews": [
+        "Sound is crisp and powerful for its size",
+        "Waterproof design works great",
+        "Battery lasts longer than expected"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sony 4K Projector",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 999.99,
+      "rating": 4.7,
+      "review_count": 645,
+      "in_stock": true,
+      "tags": [
+        "bright",
+        "sharp",
+        "premium"
+      ],
+      "reviews": [
+        "Picture quality is outstanding and very bright",
+        "Setup was straightforward",
+        "Great investment for home theater"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nike Air Max Running Shoes",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 149.99,
+      "rating": 4.5,
+      "review_count": 2534,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "durable",
+        "stylish"
+      ],
+      "reviews": [
+        "Extremely comfortable and great support for running",
+        "Looks great and feels premium",
+        "Perfect fit and quality construction"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nike Dri-Fit Sports Bra",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 89.99,
+      "rating": 4.4,
+      "review_count": 1876,
+      "in_stock": true,
+      "tags": [
+        "supportive",
+        "breathable",
+        "comfortable"
+      ],
+      "reviews": [
+        "Great support and very breathable material",
+        "Comfortable all day without chafing",
+        "Good quality and worth the price"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nike Tech Fleece Jacket",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 129.99,
+      "rating": 4.3,
+      "review_count": 945,
+      "in_stock": true,
+      "tags": [
+        "warm",
+        "stylish",
+        "breathable"
+      ],
+      "reviews": [
+        "Warm and comfortable for cool weather",
+        "Great fit and quality fabric",
+        "Stylish design that works anywhere"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Nike Lightweight Running Vest",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 59.99,
+      "rating": 4.2,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "light",
+        "breathable",
+        "packable"
+      ],
+      "reviews": [
+        "Perfect for running and very lightweight",
+        "Great ventilation and good fit",
+        "Affordable and practical"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Adidas Ultraboost Shoes",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 189.99,
+      "rating": 4.4,
+      "review_count": 1823,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "responsive",
+        "stylish"
+      ],
+      "reviews": [
+        "Incredibly comfortable and great energy return",
+        "Looks amazing and holds up well",
+        "Worth the investment for daily wear"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Adidas Training Shorts",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 49.99,
+      "rating": 4.1,
+      "review_count": 678,
+      "in_stock": true,
+      "tags": [
+        "light",
+        "durable",
+        "comfortable"
+      ],
+      "reviews": [
+        "Good quality and comfortable fit",
+        "Breathable material works great",
+        "Fair price for the quality"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Adidas Superstar White",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 79.99,
+      "rating": 4.2,
+      "review_count": 1456,
+      "in_stock": true,
+      "tags": [
+        "classic",
+        "durable",
+        "versatile"
+      ],
+      "reviews": [
+        "Classic design and surprisingly durable",
+        "Comfortable for everyday wear",
+        "Great value for an iconic shoe"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Adidas Moisture Wicking Shirt",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 44.99,
+      "rating": 4.0,
+      "review_count": 523,
+      "in_stock": true,
+      "tags": [
+        "breathable",
+        "comfortable",
+        "practical"
+      ],
+      "reviews": [
+        "Works well for workouts and feels good",
+        "Moisture wicking is effective",
+        "Good basic quality"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "IKEA Billy Bookshelf",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 59.99,
+      "rating": 4.3,
+      "review_count": 2145,
+      "in_stock": true,
+      "tags": [
+        "spacious",
+        "sturdy",
+        "affordable"
+      ],
+      "reviews": [
+        "Solid construction and lots of storage space",
+        "Easy to assemble and looks good",
+        "Great value for the price"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "IKEA Malm Bed Frame",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 249.99,
+      "rating": 4.2,
+      "review_count": 1678,
+      "in_stock": true,
+      "tags": [
+        "sturdy",
+        "minimalist",
+        "spacious"
+      ],
+      "reviews": [
+        "Good quality construction and plenty of storage",
+        "Easy assembly and looks sleek",
+        "Great for the price"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "IKEA Kitchen Dining Table",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 199.99,
+      "rating": 4.1,
+      "review_count": 934,
+      "in_stock": true,
+      "tags": [
+        "durable",
+        "functional",
+        "stylish"
+      ],
+      "reviews": [
+        "Solid table and good size",
+        "Finishes well and easy to clean",
+        "Good value for everyday use"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "IKEA Kallax Shelving",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 89.99,
+      "rating": 4.0,
+      "review_count": 1256,
+      "in_stock": true,
+      "tags": [
+        "versatile",
+        "practical",
+        "affordable"
+      ],
+      "reviews": [
+        "Works well for organization and looks clean",
+        "Easy to assemble",
+        "Good basic shelving option"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Philips Smart Lighting Kit",
+      "brand": "Philips",
+      "category": "Electronics",
+      "price": 199.99,
+      "rating": 4.2,
+      "review_count": 876,
+      "in_stock": true,
+      "tags": [
+        "smart",
+        "energy efficient",
+        "customizable"
+      ],
+      "reviews": [
+        "Great color options and works well",
+        "Easy app control and reliable",
+        "Good automation features"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Philips Air Fryer",
+      "brand": "Philips",
+      "category": "Home",
+      "price": 249.99,
+      "rating": 4.4,
+      "review_count": 1534,
+      "in_stock": true,
+      "tags": [
+        "healthy",
+        "fast",
+        "efficient"
+      ],
+      "reviews": [
+        "Cooks food evenly and quickly",
+        "Less oil and tasty results",
+        "Easy to clean and use"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Philips Electric Toothbrush",
+      "brand": "Philips",
+      "category": "Personal Care",
+      "price": 149.99,
+      "rating": 4.3,
+      "review_count": 1245,
+      "in_stock": true,
+      "tags": [
+        "effective",
+        "durable",
+        "thorough"
+      ],
+      "reviews": [
+        "Really clean feeling teeth and cordless charging",
+        "Effective brushing and durable",
+        "Great oral care investment"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Philips Steamer",
+      "brand": "Philips",
+      "category": "Home",
+      "price": 79.99,
+      "rating": 4.1,
+      "review_count": 678,
+      "in_stock": true,
+      "tags": [
+        "efficient",
+        "fast",
+        "reliable"
+      ],
+      "reviews": [
+        "Removes wrinkles quickly and easy to use",
+        "Steam is powerful",
+        "Works as promised"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Generic USB-C Cable",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 9.99,
+      "rating": 3.2,
+      "review_count": 245,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "functional",
+        "affordable"
+      ],
+      "reviews": [
+        "Works fine but frays after a few months",
+        "Gets the job done initially",
+        "Cheap but not durable"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Generic Phone Case",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 14.99,
+      "rating": 3.5,
+      "review_count": 567,
+      "in_stock": true,
+      "tags": [
+        "protective",
+        "lightweight",
+        "affordable"
+      ],
+      "reviews": [
+        "Does protect the phone decently",
+        "Okay quality for the price",
+        "Some scuffing after a month or two"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Generic Screen Protector 10 Pack",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 12.99,
+      "rating": 3.1,
+      "review_count": 389,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Most work but few are defective",
+        "Okay protection for cheap",
+        "Installation is tricky and some bubble"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Generic Charging Pad",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 19.99,
+      "rating": 3.4,
+      "review_count": 423,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "functional",
+        "affordable"
+      ],
+      "reviews": [
+        "Works but takes a while to charge",
+        "Does charge eventually",
+        "Average quality for the money"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Generic Bluetooth Speaker",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 39.99,
+      "rating": 3.0,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "budget",
+        "small",
+        "basic"
+      ],
+      "reviews": [
+        "Sound quality is mediocre and battery dies quick",
+        "Doesn't sound great but works",
+        "Not worth the hassle honestly"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Generic USB Hub",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 24.99,
+      "rating": 3.3,
+      "review_count": 334,
+      "in_stock": true,
+      "tags": [
+        "functional",
+        "affordable",
+        "practical"
+      ],
+      "reviews": [
+        "Gets the job done but occasionally disconnects",
+        "Works most of the time",
+        "Basic functionality"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Generic Phone Stand",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 9.99,
+      "rating": 3.6,
+      "review_count": 278,
+      "in_stock": true,
+      "tags": [
+        "adjustable",
+        "light",
+        "affordable"
+      ],
+      "reviews": [
+        "Holds phone decently but feels flimsy",
+        "Does what you need",
+        "Could be more stable"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Generic Laptop Cooling Pad",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 29.99,
+      "rating": 3.2,
+      "review_count": 401,
+      "in_stock": true,
+      "tags": [
+        "budget",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Cools laptop a bit but not much difference",
+        "Noisy fan",
+        "Okay for the price I guess"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Generic Wireless Mouse",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 19.99,
+      "rating": 3.4,
+      "review_count": 567,
+      "in_stock": true,
+      "tags": [
+        "budget",
+        "basic",
+        "wireless"
+      ],
+      "reviews": [
+        "Works fine for basic tasks",
+        "Battery lasts decent",
+        "Average quality mouse"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Generic USB Keyboard",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 24.99,
+      "rating": 3.3,
+      "review_count": 445,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "functional",
+        "basic"
+      ],
+      "reviews": [
+        "Keyboard works but keys feel cheap",
+        "Gets the job done",
+        "Not the best quality"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Zara Wool Blend Coat",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 129.99,
+      "rating": 4.3,
+      "review_count": 1456,
+      "in_stock": true,
+      "tags": [
+        "stylish",
+        "warm",
+        "fashionable"
+      ],
+      "reviews": [
+        "Amazing design and good quality material",
+        "Keeps you warm and looks great",
+        "Perfect seasonal piece"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Zara Striped T-Shirt",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 34.99,
+      "rating": 4.1,
+      "review_count": 834,
+      "in_stock": true,
+      "tags": [
+        "trendy",
+        "comfortable",
+        "affordable"
+      ],
+      "reviews": [
+        "Great fit and trendy style",
+        "Comfortable for everyday wear",
+        "Good value for Zara"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Zara Straight Leg Jeans",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 79.99,
+      "rating": 4.2,
+      "review_count": 1123,
+      "in_stock": true,
+      "tags": [
+        "stylish",
+        "flattering",
+        "quality"
+      ],
+      "reviews": [
+        "Excellent fit and good denim quality",
+        "Looks great and very comfortable",
+        "Worth the price"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Zara Leather Ankle Boots",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 149.99,
+      "rating": 4.4,
+      "review_count": 945,
+      "in_stock": true,
+      "tags": [
+        "stylish",
+        "comfortable",
+        "durable"
+      ],
+      "reviews": [
+        "Beautiful leather and comfortable for all-day wear",
+        "Great style and quality",
+        "Love these boots"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Zara Summer Dress",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 69.99,
+      "rating": 4.0,
+      "review_count": 678,
+      "in_stock": true,
+      "tags": [
+        "lightweight",
+        "stylish",
+        "breathable"
+      ],
+      "reviews": [
+        "Light material and looks great",
+        "Comfortable in warm weather",
+        "Good basic summer option"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Apple Magic Keyboard",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 349.99,
+      "rating": 4.7,
+      "review_count": 1234,
+      "in_stock": true,
+      "tags": [
+        "responsive",
+        "premium",
+        "wireless"
+      ],
+      "reviews": [
+        "Best keyboard I've used with excellent key feel",
+        "Seamless connection and very responsive",
+        "Premium quality throughout"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Apple Magic Mouse",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 79.99,
+      "rating": 4.6,
+      "review_count": 890,
+      "in_stock": true,
+      "tags": [
+        "smooth",
+        "responsive",
+        "premium"
+      ],
+      "reviews": [
+        "Smooth tracking and very responsive",
+        "Elegant design and works perfectly",
+        "Worth it for Apple ecosystem"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Apple HomePod Mini",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 99.99,
+      "rating": 4.5,
+      "review_count": 1567,
+      "in_stock": true,
+      "tags": [
+        "smart",
+        "sound quality",
+        "compact"
+      ],
+      "reviews": [
+        "Great sound in a small package",
+        "Smart home integration is seamless",
+        "Perfect for the price"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Samsung Galaxy Tab S9",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 599.99,
+      "rating": 4.4,
+      "review_count": 1245,
+      "in_stock": true,
+      "tags": [
+        "bright",
+        "powerful",
+        "versatile"
+      ],
+      "reviews": [
+        "Gorgeous display and fast processor",
+        "Great for media and work",
+        "Very responsive tablet"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Samsung Soundbar Q70T",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 649.99,
+      "rating": 4.3,
+      "review_count": 876,
+      "in_stock": true,
+      "tags": [
+        "immersive",
+        "powerful",
+        "quality"
+      ],
+      "reviews": [
+        "Sound is immersive and powerful",
+        "Great surround effect",
+        "Connects easily to TV"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Nike Crew Neck T-Shirt",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 39.99,
+      "rating": 4.2,
+      "review_count": 923,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "durable",
+        "versatile"
+      ],
+      "reviews": [
+        "Super soft material and great fit",
+        "Lasts wash after wash",
+        "Perfect everyday shirt"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Adidas Joggers",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 74.99,
+      "rating": 4.1,
+      "review_count": 645,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "stylish",
+        "breathable"
+      ],
+      "reviews": [
+        "Comfortable fit and good quality material",
+        "Breathable for workouts",
+        "Stylish loungewear"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "IKEA BEST\u00c5 Storage",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 299.99,
+      "rating": 4.0,
+      "review_count": 567,
+      "in_stock": true,
+      "tags": [
+        "modular",
+        "durable",
+        "functional"
+      ],
+      "reviews": [
+        "Great storage solution and sturdy",
+        "Fits well in any room",
+        "Good value for modular system"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Philips Kettle",
+      "brand": "Philips",
+      "category": "Home",
+      "price": 64.99,
+      "rating": 4.2,
+      "review_count": 789,
+      "in_stock": true,
+      "tags": [
+        "fast",
+        "durable",
+        "reliable"
+      ],
+      "reviews": [
+        "Boils water quickly and very reliable",
+        "Durable build and nice design",
+        "Works perfectly"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Sony Wireless Charger",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 79.99,
+      "rating": 4.5,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "fast",
+        "premium",
+        "reliable"
+      ],
+      "reviews": [
+        "Charges quickly and very reliable",
+        "Premium look and quality",
+        "Great addition to workspace"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Xiaomi Webcam",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 89.99,
+      "rating": 3.9,
+      "review_count": 445,
+      "in_stock": true,
+      "tags": [
+        "clear",
+        "affordable",
+        "good quality"
+      ],
+      "reviews": [
+        "Picture quality is good for video calls",
+        "Works well for the price",
+        "Pretty reliable overall"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Generic Screen Cleaner Kit",
+      "brand": "Generic",
+      "category": "Personal Care",
+      "price": 14.99,
+      "rating": 2.9,
+      "review_count": 234,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "affordable",
+        "functional"
+      ],
+      "reviews": [
+        "Works okay but leaves streaks",
+        "Cheap and does basic job",
+        "Not great quality honestly"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Generic Phone Charger",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 16.99,
+      "rating": 3.1,
+      "review_count": 378,
+      "in_stock": true,
+      "tags": [
+        "budget",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Charges phone but takes forever",
+        "Works eventually",
+        "Cheap but slow"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Apple AirTag 4 Pack",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 99.99,
+      "rating": 4.7,
+      "review_count": 2123,
+      "in_stock": true,
+      "tags": [
+        "reliable",
+        "accurate",
+        "useful"
+      ],
+      "reviews": [
+        "Works excellently for tracking items",
+        "Very accurate and reliable",
+        "Great peace of mind"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Samsung Galaxy Watch 6",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 299.99,
+      "rating": 4.4,
+      "review_count": 1678,
+      "in_stock": true,
+      "tags": [
+        "feature rich",
+        "reliable",
+        "stylish"
+      ],
+      "reviews": [
+        "Lots of great features and looks good",
+        "Reliable performance and good battery",
+        "Great smartwatch"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Nike Revolution 7",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 69.99,
+      "rating": 4.3,
+      "review_count": 1534,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "affordable",
+        "reliable"
+      ],
+      "reviews": [
+        "Comfortable for running and great price",
+        "Good cushioning and support",
+        "Reliable everyday shoe"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Adidas ZX 500",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 99.99,
+      "rating": 4.2,
+      "review_count": 1245,
+      "in_stock": true,
+      "tags": [
+        "classic",
+        "comfortable",
+        "durable"
+      ],
+      "reviews": [
+        "Classic style and very comfortable",
+        "Durable construction",
+        "Great everyday sneaker"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Zara Blazer",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 119.99,
+      "rating": 4.3,
+      "review_count": 734,
+      "in_stock": true,
+      "tags": [
+        "professional",
+        "stylish",
+        "quality"
+      ],
+      "reviews": [
+        "Professional look and excellent fit",
+        "Good quality material",
+        "Perfect for work wardrobe"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "IKEA LACK Side Table",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 34.99,
+      "rating": 4.1,
+      "review_count": 1567,
+      "in_stock": true,
+      "tags": [
+        "simple",
+        "affordable",
+        "functional"
+      ],
+      "reviews": [
+        "Simple design and sturdy enough",
+        "Very affordable",
+        "Looks clean and basic"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Philips Hair Dryer",
+      "brand": "Philips",
+      "category": "Personal Care",
+      "price": 89.99,
+      "rating": 4.2,
+      "review_count": 923,
+      "in_stock": true,
+      "tags": [
+        "fast",
+        "durable",
+        "efficient"
+      ],
+      "reviews": [
+        "Dries hair quickly with good heat control",
+        "Very durable",
+        "Great value for features"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Sony Memory Card 256GB",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 49.99,
+      "rating": 4.4,
+      "review_count": 556,
+      "in_stock": true,
+      "tags": [
+        "fast",
+        "reliable",
+        "durable"
+      ],
+      "reviews": [
+        "Fast read/write speeds and reliable",
+        "Perfect for professional cameras",
+        "Great quality"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Xiaomi Smartphone Case",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 19.99,
+      "rating": 3.8,
+      "review_count": 512,
+      "in_stock": true,
+      "tags": [
+        "protective",
+        "affordable",
+        "decent"
+      ],
+      "reviews": [
+        "Decent protection and good grip",
+        "Affordable option",
+        "Works fine for the price"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Generic Desk Lamp",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 24.99,
+      "rating": 3.2,
+      "review_count": 389,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "functional",
+        "affordable"
+      ],
+      "reviews": [
+        "Provides light but not very bright",
+        "Adjustable but basic design",
+        "Works for basic needs"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Generic Notebook Pack",
+      "brand": "Generic",
+      "category": "Personal Care",
+      "price": 12.99,
+      "rating": 3.4,
+      "review_count": 267,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Okay quality paper and cheap",
+        "Does the job",
+        "Not premium but serviceable"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Apple Pro Display XDR",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 4999.99,
+      "rating": 4.9,
+      "review_count": 234,
+      "in_stock": true,
+      "tags": [
+        "professional",
+        "premium",
+        "color accurate"
+      ],
+      "reviews": [
+        "Color accuracy is unmatched for professionals",
+        "Build quality is exceptional",
+        "Industry standard monitor"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Samsung OLED TV 55 Inch",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 1299.99,
+      "rating": 4.5,
+      "review_count": 567,
+      "in_stock": true,
+      "tags": [
+        "vibrant",
+        "premium",
+        "immersive"
+      ],
+      "reviews": [
+        "Picture quality is absolutely stunning",
+        "Colors are vibrant and blacks are deep",
+        "Best TV experience"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Sony FE 24-70mm Lens",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 799.99,
+      "rating": 4.7,
+      "review_count": 423,
+      "in_stock": true,
+      "tags": [
+        "sharp",
+        "versatile",
+        "professional"
+      ],
+      "reviews": [
+        "Image quality is exceptional and versatile",
+        "Great for photography",
+        "Professional grade lens"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Nike Elite Basketball Shoes",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 179.99,
+      "rating": 4.4,
+      "review_count": 1123,
+      "in_stock": true,
+      "tags": [
+        "supportive",
+        "comfortable",
+        "high performance"
+      ],
+      "reviews": [
+        "Great ankle support and comfortable",
+        "Perfect for basketball",
+        "High quality construction"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Adidas Stan Smith",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 89.99,
+      "rating": 4.3,
+      "review_count": 1856,
+      "in_stock": true,
+      "tags": [
+        "classic",
+        "comfortable",
+        "timeless"
+      ],
+      "reviews": [
+        "Iconic style and very comfortable",
+        "Great everyday shoe",
+        "Quality has held up great"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Zara Cashmere Sweater",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 149.99,
+      "rating": 4.4,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "luxurious",
+        "comfortable",
+        "warm"
+      ],
+      "reviews": [
+        "Soft cashmere and excellent quality",
+        "Keeps you warm and comfortable",
+        "Worth the investment"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "IKEA Besta Drawers",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 149.99,
+      "rating": 4.0,
+      "review_count": 834,
+      "in_stock": true,
+      "tags": [
+        "spacious",
+        "organized",
+        "affordable"
+      ],
+      "reviews": [
+        "Good drawer space and sturdy",
+        "Helps with organization",
+        "Good value system"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Philips Smart Bulb RGB",
+      "brand": "Philips",
+      "category": "Electronics",
+      "price": 24.99,
+      "rating": 4.1,
+      "review_count": 723,
+      "in_stock": true,
+      "tags": [
+        "colorful",
+        "smart",
+        "reliable"
+      ],
+      "reviews": [
+        "Great color options and works well",
+        "Easy to control via app",
+        "Reliable lighting"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Generic Wireless Earbuds",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 34.99,
+      "rating": 3.3,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "budget",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Works but audio is tinny",
+        "Battery okay but not great",
+        "Budget option that sort of works"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Apple Studio Display",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1599.99,
+      "rating": 4.8,
+      "review_count": 456,
+      "in_stock": true,
+      "tags": [
+        "high quality",
+        "color accurate",
+        "premium"
+      ],
+      "reviews": [
+        "Exceptional display quality and color accuracy",
+        "Great for creative professionals",
+        "Premium build throughout"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Samsung Galaxy Buds 2 Pro",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 229.99,
+      "rating": 4.4,
+      "review_count": 1423,
+      "in_stock": true,
+      "tags": [
+        "wireless",
+        "quality sound",
+        "comfortable"
+      ],
+      "reviews": [
+        "Great sound quality and very comfortable",
+        "ANC works well",
+        "Great wireless earbuds"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Sony 85 Inch TV",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 2499.99,
+      "rating": 4.7,
+      "review_count": 389,
+      "in_stock": true,
+      "tags": [
+        "massive",
+        "immersive",
+        "premium"
+      ],
+      "reviews": [
+        "Incredible picture on a huge screen",
+        "Amazing viewing experience",
+        "Premium quality throughout"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Nike Windrunner Jacket",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 119.99,
+      "rating": 4.3,
+      "review_count": 934,
+      "in_stock": true,
+      "tags": [
+        "windproof",
+        "lightweight",
+        "stylish"
+      ],
+      "reviews": [
+        "Keeps wind out and looks great",
+        "Lightweight and packable",
+        "Great for running"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Adidas Running Shorts",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 54.99,
+      "rating": 4.1,
+      "review_count": 745,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "breathable",
+        "lightweight"
+      ],
+      "reviews": [
+        "Very comfortable and breathable",
+        "Good fit for workouts",
+        "Quality material"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Zara Denim Jacket",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 99.99,
+      "rating": 4.2,
+      "review_count": 1034,
+      "in_stock": true,
+      "tags": [
+        "timeless",
+        "stylish",
+        "durable"
+      ],
+      "reviews": [
+        "Classic denim and excellent quality",
+        "Looks great with anything",
+        "Durable and stylish"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "IKEA Hektar Light",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 29.99,
+      "rating": 3.9,
+      "review_count": 556,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "modern",
+        "functional"
+      ],
+      "reviews": [
+        "Nice modern design and works well",
+        "Brightens room adequately",
+        "Good budget lighting"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Philips Shaver",
+      "brand": "Philips",
+      "category": "Personal Care",
+      "price": 119.99,
+      "rating": 4.3,
+      "review_count": 1156,
+      "in_stock": true,
+      "tags": [
+        "close shave",
+        "durable",
+        "reliable"
+      ],
+      "reviews": [
+        "Very close shave and durable",
+        "Reliable performance",
+        "Great grooming tool"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Xiaomi Power Bank 20000",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 34.99,
+      "rating": 4.0,
+      "review_count": 834,
+      "in_stock": true,
+      "tags": [
+        "portable",
+        "affordable",
+        "decent capacity"
+      ],
+      "reviews": [
+        "Good capacity and portable",
+        "Affordable option",
+        "Works as expected"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Generic Webcam",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 49.99,
+      "rating": 3.2,
+      "review_count": 423,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "functional",
+        "affordable"
+      ],
+      "reviews": [
+        "Works for video calls but quality is grainy",
+        "Budget option",
+        "Does basic job"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Generic USB Flash Drive 64GB",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 19.99,
+      "rating": 3.3,
+      "review_count": 578,
+      "in_stock": true,
+      "tags": [
+        "affordable",
+        "basic",
+        "functional"
+      ],
+      "reviews": [
+        "Stores files fine",
+        "Budget friendly",
+        "Speed is okay not great"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Apple Magic Trackpad",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 129.99,
+      "rating": 4.6,
+      "review_count": 734,
+      "in_stock": true,
+      "tags": [
+        "smooth",
+        "responsive",
+        "premium"
+      ],
+      "reviews": [
+        "Incredibly smooth tracking and responsive",
+        "Great precision for design work",
+        "Premium quality"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Samsung ClipBoard",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 599.99,
+      "rating": 4.3,
+      "review_count": 489,
+      "in_stock": true,
+      "tags": [
+        "portable",
+        "useful",
+        "quality"
+      ],
+      "reviews": [
+        "Great portable device and solid quality",
+        "Useful for work",
+        "Good performance"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Sony Alpha 6700",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 1399.99,
+      "rating": 4.8,
+      "review_count": 312,
+      "in_stock": true,
+      "tags": [
+        "professional",
+        "versatile",
+        "reliable"
+      ],
+      "reviews": [
+        "Professional level performance and image quality",
+        "Excellent for both photo and video",
+        "Industry grade camera"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Nike Training Mat",
+      "brand": "Nike",
+      "category": "Fitness",
+      "price": 49.99,
+      "rating": 4.2,
+      "review_count": 678,
+      "in_stock": true,
+      "tags": [
+        "cushioned",
+        "durable",
+        "supportive"
+      ],
+      "reviews": [
+        "Great cushioning and supports workouts",
+        "Durable material",
+        "Perfect for home gym"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Adidas Yoga Mat",
+      "brand": "Adidas",
+      "category": "Fitness",
+      "price": 44.99,
+      "rating": 4.1,
+      "review_count": 612,
+      "in_stock": true,
+      "tags": [
+        "comfortable",
+        "non-slip",
+        "durable"
+      ],
+      "reviews": [
+        "Comfortable and good grip",
+        "Non-slip surface works well",
+        "Great quality mat"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Zara Gift Card 100",
+      "brand": "Zara",
+      "category": "Fashion",
+      "price": 100.0,
+      "rating": 4.5,
+      "review_count": 456,
+      "in_stock": true,
+      "tags": [
+        "flexible",
+        "versatile",
+        "stylish"
+      ],
+      "reviews": [
+        "Perfect gift and can get what you want",
+        "Works great for shopping",
+        "No expiration issues"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "IKEA Utensil Set",
+      "brand": "IKEA",
+      "category": "Home",
+      "price": 19.99,
+      "rating": 4.0,
+      "review_count": 723,
+      "in_stock": true,
+      "tags": [
+        "practical",
+        "affordable",
+        "durable"
+      ],
+      "reviews": [
+        "Good quality kitchen utensils",
+        "Affordable set",
+        "Works perfectly for cooking"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Philips Water Bottle Smart",
+      "brand": "Philips",
+      "category": "Personal Care",
+      "price": 79.99,
+      "rating": 4.2,
+      "review_count": 589,
+      "in_stock": true,
+      "tags": [
+        "hydration tracking",
+        "durable",
+        "smart"
+      ],
+      "reviews": [
+        "Tracks hydration and works great",
+        "Durable bottle",
+        "Smart feature is useful"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Generic Car Phone Mount",
+      "brand": "Generic",
+      "category": "Electronics",
+      "price": 14.99,
+      "rating": 3.2,
+      "review_count": 445,
+      "in_stock": true,
+      "tags": [
+        "basic",
+        "affordable",
+        "practical"
+      ],
+      "reviews": [
+        "Holds phone but wobbles sometimes",
+        "Cheap option",
+        "Does basic job but not stable"
+      ]
+    }
+  ]
+}
